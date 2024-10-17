@@ -9,7 +9,6 @@ import Login from '../_features/Login';
   return (
     <div>
         <Signup
-         count={count}
         />
         <Login/>
     </div>
